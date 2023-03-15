@@ -110,6 +110,6 @@ To move the rotate the model along z axis for dataset generation
 2. publish to the cmd_vel 
 
 ```
-ign topic -t "/model/Car1/cmd_vel" -m ignition.msgs.Twist -p "linear: {x: 0.5}, angular: {z: 0.05}"
+ign topic -t "/model/Car1/cmd_vel" -m ignition.msgs.Twist -p "angular: {z: 5}"
 ```
 
