@@ -1,7 +1,7 @@
 # gazebo_segmentation_template
 Templete SDF for Ignition gazebo semantic segmentation dataset generation
 
-![demo](https://github.com/tharaka27/gazebo_segmentation_template/blob/main/video/demo1.gif
+![demo](https://github.com/tharaka27/gazebo_segmentation_template/blob/main/video/demo1.gif)
 
 
 ## Installing
