@@ -1,4 +1,4 @@
-# ign_gazebo_seg_template
+# gazebo_segmentation_template
 Templete SDF for Ignition gazebo semantic segmentation dataset generation
 
 
@@ -112,4 +112,4 @@ To move the rotate the model along z axis for dataset generation
 ```
 ign topic -t "/model/Car1/cmd_vel" -m ignition.msgs.Twist -p "linear: {x: 0.5}, angular: {z: 0.05}"
 ```
-# gazebo_segmentation_template
+
